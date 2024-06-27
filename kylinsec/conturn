@@ -1,1 +1,1 @@
-FROM coturn/coturn
+FROM coturn/coturn:4
